@@ -9,6 +9,5 @@ const AboutMe = {
         mobileApp: ["React Native"],
   },
   misc: ["Firebase"],
-  
 }
 ```
